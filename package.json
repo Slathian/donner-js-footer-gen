@@ -1,6 +1,6 @@
 {
   "name": "donner-js-footer-gen",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "footer generator in a string",
   "main": "index.js",
   "scripts": {
