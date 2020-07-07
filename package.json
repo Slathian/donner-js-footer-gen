@@ -1,0 +1,25 @@
+{
+  "name": "donner-js-footer-gen",
+  "version": "0.1.0",
+  "description": "footer generator in a string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Slathian/donner-js-footer-gen.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Joshua C Hunter <joshua@angelo.net> (N/A)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Slathian/donner-js-footer-gen/issues"
+  },
+  "homepage": "https://github.com/Slathian/donner-js-footer-gen#readme",
+  "dependencies": {
+    "moment": "^2.27.0"
+  }
+}
